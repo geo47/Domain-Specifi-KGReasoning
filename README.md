@@ -1,1 +1,1 @@
-# Domain-Specifi-KGReasoning
+# Domain-Specific-KGReasoning
